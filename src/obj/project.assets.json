@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\curriculum\\asp\\asp.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\curriculum\\asp\\src\\asp.csproj",
       "projectName": "asp",
-      "projectPath": "C:\\Users\\PC\\Desktop\\curriculum\\asp\\asp.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\curriculum\\asp\\src\\asp.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\curriculum\\asp\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\curriculum\\asp\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\curriculum\asp\src\published\asp.exe
+C:\Users\PC\Desktop\curriculum\asp\src\published\appsettings.Development.json
+C:\Users\PC\Desktop\curriculum\asp\src\published\appsettings.json
+C:\Users\PC\Desktop\curriculum\asp\src\published\asp.dll
+C:\Users\PC\Desktop\curriculum\asp\src\published\asp.deps.json
+C:\Users\PC\Desktop\curriculum\asp\src\published\asp.runtimeconfig.json
+C:\Users\PC\Desktop\curriculum\asp\src\published\asp.pdb
